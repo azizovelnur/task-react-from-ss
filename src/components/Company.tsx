@@ -13,8 +13,9 @@ export const Company: FC<ICompany> = ({
   shipmentAmount,
   remainingAmount,
   achievement,
+  index,
 }) => {
-  const [open, setOpen] = useState<boolean>(true)
+  const [open, setOpen] = useState<boolean>(index === 1)
   return (
     <>
       <div

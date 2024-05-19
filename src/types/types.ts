@@ -6,6 +6,7 @@ export interface ICompany {
   shipmentAmount: number
   remainingAmount: number
   achievement: number
+  index?: number
 }
 
 export interface ICompanyProductInfo {

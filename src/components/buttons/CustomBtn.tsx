@@ -21,7 +21,9 @@ export const CustomBtn: FC<ICustomBtnProps> = ({
         style={{ width: `${width}px` }}
       >
         <span className="ml-[21px]">{value2}</span>
-        <div className="absolute right-[17px]">{valueIcon}</div>
+        <div className="absolute right-[17px] cursor-pointer z-50">
+          {valueIcon}
+        </div>
       </div>
     </div>
   )

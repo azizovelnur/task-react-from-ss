@@ -9,9 +9,10 @@ export const Companies: FC = () => {
   )
   return (
     <>
-      {companiesDataFromSlice.map((company, key) => (
+      {companiesDataFromSlice.map((company, index) => (
         <Company
-          key={key}
+          key={index}
+          index={index}
           companyImg={company.companyImg}
           companyName={company.companyName}
           companyCity={company.companyCity}
