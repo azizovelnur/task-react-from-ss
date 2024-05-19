@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/task-react-from-ss/static/css/main.db0a4d15.css",
+    "main.js": "/task-react-from-ss/static/js/main.35f2b3e9.js",
+    "static/media/calendar.svg": "/task-react-from-ss/static/media/calendar.10d2258f289bcf6521fed3cc500f6b9c.svg",
+    "static/media/trash.svg": "/task-react-from-ss/static/media/trash.44614a5b8c0115410e106ec32f9cda66.svg",
+    "index.html": "/task-react-from-ss/index.html",
+    "static/media/plus.svg": "/task-react-from-ss/static/media/plus.354673c31fcc3435c2dff8162ea62cf4.svg",
+    "static/media/active-arrow.svg": "/task-react-from-ss/static/media/active-arrow.0123921f9e6b1d3aac13d0add33386c7.svg",
+    "static/media/arrow.svg": "/task-react-from-ss/static/media/arrow.6abf732b61186fe75069566878761077.svg",
+    "static/media/arrowOfBtn.svg": "/task-react-from-ss/static/media/arrowOfBtn.fdbbd92e0a14b167de636635e8d36b4a.svg",
+    "static/media/minus.svg": "/task-react-from-ss/static/media/minus.c0b4d056cc0bdb438d51029359c36540.svg",
+    "main.db0a4d15.css.map": "/task-react-from-ss/static/css/main.db0a4d15.css.map",
+    "main.35f2b3e9.js.map": "/task-react-from-ss/static/js/main.35f2b3e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0a4d15.css",
+    "static/js/main.35f2b3e9.js"
+  ]
+}
