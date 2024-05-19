@@ -1,4 +1,5 @@
 {
+  "homepage": "https://e1nur.github.io/task-react-from-ss",
   "name": "task-react-from-ss",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,7 @@
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.3.0",
     "framer-motion": "^11.2.4",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
@@ -22,6 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
